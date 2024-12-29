@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Redis Data
+dump.rdb
+
+# MongoDB Data
+data/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build files (if applicable)
+build/
+dist/
+
+# Coverage (for Jest or other testing tools)
+coverage/
